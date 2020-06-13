@@ -1,0 +1,63 @@
+body{
+	background-image: url(index.jpg)
+}
+.welcome{
+	font-family: 'Nanum Pen Script', cursive;
+	font-weight: bold;
+	font-style: oblique;
+	text-align: center;
+	font-size: 6em;
+
+}
+.ded{
+	font-family: 'Cedarville Cursive', cursive;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	font-size: 2em;
+}
+footer{
+	/*clear: both;*/
+	text-align: right;
+	bottom: 0;
+	right: 1%;
+	position: absolute;
+*/
+}
+.des{
+
+	 background: -webkit-linear-gradient(orange, red);
+	 -webkit-background-clip: text;
+	 -webkit-text-fill-color: transparent;
+	 font-family: 'Megrim', cursive;
+	 font-weight: bold;
+
+	
+}
+.pi{
+
+}
+.btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /*background: linear-gradient(90deg, #1A2980 10%, #26D0CE 90%); */
+  color: white;
+  padding: .5em 1em;  
+  border: solid 2px black;  
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-weight: 700;
+}
+/*.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}*/
+
+.btn:hover {
+  background-color: #008CBA;
+  color: black;
+}

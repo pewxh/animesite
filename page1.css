@@ -1,0 +1,22 @@
+.box{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+p{
+	
+	font-family: 'Nanum Pen Script', cursive;
+	text-align: center;
+	font-weight: bold;
+	border-bottom: 2px solid pink;
+	font-size: 4em;
+}
+img{
+	width: 450px;
+	height: 300px;
+	margin: 10px;
+	border: 2px solid black;
+}
+ img:hover {
+  transform: scale(1.1);
+}
