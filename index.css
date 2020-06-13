@@ -1,5 +1,6 @@
 body{
-	background-image: url(index.jpg)
+	background-image: url(http://d3cefr4bm4lrdh.cloudfront.net/index.jpg);
+	background-size:cover ;
 }
 .welcome{
 	font-family: 'Nanum Pen Script', cursive;
